@@ -281,7 +281,7 @@ function App() {
   return (
     <div className="app">
       <header className="page-header">
-        <div>
+        <div className="title-block">
           <p className="eyebrow">Warehouse + Retail Sales Dashboard</p>
           <h1>Maryland Warehouse & Retail Sales Trends</h1>
         </div>
